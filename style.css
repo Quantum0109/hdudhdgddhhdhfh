@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,700;1,700&display=swap');
+
+body {
+	margin: 0;
+}
+
+header,
+main,
+footer {
+	max-width: 1000px;
+	background-color: #000;
+	margin: 0 auto;
+	color: #fff;
+	padding-left: 74px;
+	padding-right: 74px;
+}
+
+header {
+	min-height: 1136px;
+	background-image: url("img/mac.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+header h1 {
+	padding: 105px;
+	width: 853px;
+	margin: 0;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	line-height: 85px;
+}
+.accent-color {
+	color: #F66C41;	
+}
+
+main {
+	padding-top: 128px;
+}
+main p{
+	margin: 0;
+	width: 523px;
+	color: #BCBBBB;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 44px;
+}
+main p span {
+	text-decoration-line: line-through;
+}
+main h2 {
+	width: 853px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	line-height: 85px;
+}
+main .list-heading {
+	width: 853px;
+	font-family: Montserrat;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 44px;
+}
+.main-list-ul {
+
+}
+.main-list-item {
+	
+}

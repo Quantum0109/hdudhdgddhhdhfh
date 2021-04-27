@@ -67,10 +67,52 @@ main .list-heading {
 	font-weight: bold;
 	font-size: 36px;
 	line-height: 44px;
+	padding-top: 80px;
 }
 .main-list-ul {
-
+	width: 853px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 36px;
+	line-height: 44px;
+	padding-top: 10px;
 }
 .main-list-item {
-	
+}
+main h3 {
+	width: 853px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 70px;
+	line-height: 85px;
+	margin-bottom: 0;
+	margin-top: 100px;
+}
+main .text{
+	width: 811px;
+	top: 2667px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 44px;
+	margin-top: 20px;
+}
+footer {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+footer a {
+	width: 853px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 36px;
+	line-height: 44px;
+	text-decoration-line: underline;
+	color: #F66C41;
+	margin:0;
 }
